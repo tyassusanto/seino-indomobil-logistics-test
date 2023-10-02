@@ -1,8 +1,6 @@
 import React from 'react'
 import LoginComponent from './components/LoginComponent'
 import MainComponent from './components/MainComponent'
-// import NavbarComponent from './components/NavbarComponent'
-// import FooterComponent from './components/FooterComponent'
 import { BrowserRouter, Route, Routes } from 'react-router-dom'
 import ReqAuth from './common/ReqAuth'
 import Auth from './common/Auth'

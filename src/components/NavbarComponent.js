@@ -5,9 +5,11 @@ const NavbarComponent = () => {
         <div>
             <nav className="navbar bg-body-tertiary">
                 <div className="container-fluid">
-                    <a className="navbar-brand" href="#">
-                        Bootstrap
-                    </a>
+                    <div className="container">
+                        <a className="navbar-brand" href="#">
+                            Test
+                        </a>
+                    </div>
                 </div>
             </nav>
         </div>
